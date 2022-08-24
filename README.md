@@ -16,6 +16,6 @@ My task is to understand the meaning of the topic and translate this idea into p
 
 # User's Manual 🥷
 If you want to look at solved problems, you should go to the "solved problems" directory.<br>
-If you want to use the reference book, then you should go to the directory "learning data analysis"
+If you want to use the reference book, then you should go to the directory "Handbook"
 
 All projects are written on Jupyter Notebook, so you can easily see what was done in the file.
