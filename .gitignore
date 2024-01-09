@@ -2,3 +2,4 @@ venv
 .ipynb_checkpoints
 Pandas-checkpoint.ipynb
 Pandas_hm_*
+postgres-data
